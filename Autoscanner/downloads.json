@@ -22,5 +22,9 @@
     {
         "Version": "v1.4.7",
         "Link":"https://github.com/LeithMerrifield/AutoScanner/releases/download/v1.4.7/Autoscanner.zip"
+    },
+    {
+        "Version": "v1.4.8",
+        "Link":"https://github.com/LeithMerrifield/AutoScanner/releases/download/v1.4.8/Autoscanner.zip"
     }
 ]
